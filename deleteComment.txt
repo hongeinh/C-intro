@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+  
+  int u = 9;
+  
+  int v = 88;
+  
+  int z = u+v;
+  printf("%d", z);
+  return 0;
+}
